@@ -1,0 +1,44 @@
+[
+  {
+    "name": "rayr-mobile-game-qa",
+    "version": "1.0.0",
+    "description": "Complete QA workflow for mobile games. Use when testing any mobile game, writing test plans, running regression cycles, or verifying game features like level-up flows, spin mechanics, in-app purchases, and toaster notifications.",
+    "tags": ["qa", "mobile", "game", "android", "ios", "testing", "regression"],
+    "path": "skills/rayr-mobile-game-qa/SKILL.md"
+  },
+  {
+    "name": "rayr-adb-automation",
+    "version": "1.0.0",
+    "description": "Complete ADB automation for mobile game testing. Use when connecting devices, capturing screenshots, tapping coordinates, reading logcat, installing APKs, or scripting test flows on Android.",
+    "tags": ["adb", "android", "automation", "mobile", "qa", "logcat", "screenshot"],
+    "path": "skills/rayr-adb-automation/SKILL.md"
+  },
+  {
+    "name": "rayr-unity-testing",
+    "version": "1.0.0",
+    "description": "Unity mobile game testing expertise. Use when testing Unity games — understanding why UIAutomator fails on Unity canvases, detecting Unity crashes, finding performance issues, and knowing which logcat patterns mean what.",
+    "tags": ["unity", "game", "mobile", "testing", "qa", "crash", "opengl", "canvas"],
+    "path": "skills/rayr-unity-testing/SKILL.md"
+  },
+  {
+    "name": "rayr-bug-classifier",
+    "version": "1.0.0",
+    "description": "Classifies, prioritises, and writes bug reports for mobile game QA. Use when you have a bug to report, need JIRA-ready reports, or need to triage issues found during a test run.",
+    "tags": ["bugs", "jira", "qa", "severity", "priority", "reporting", "mobile"],
+    "path": "skills/rayr-bug-classifier/SKILL.md"
+  },
+  {
+    "name": "rayr-qa-business",
+    "version": "1.0.0",
+    "description": "How to run a QA-as-a-Service business using AI agents. Use when scoping engagements, pricing services, writing proposals, automating QA work, and scaling without hiring.",
+    "tags": ["business", "freelance", "qa", "saas", "agency", "pricing", "proposal"],
+    "path": "skills/rayr-qa-business/SKILL.md"
+  },
+  {
+    "name": "rayr-visual-testing",
+    "version": "1.0.0",
+    "description": "Visual regression and screenshot comparison for mobile game testing. Use when comparing screenshots, detecting UI regressions, verifying animation placement, or using AI vision to verify expected results.",
+    "tags": ["visual", "screenshot", "regression", "cv", "opencv", "ai", "vision", "ui"],
+    "path": "skills/rayr-visual-testing/SKILL.md"
+  }
+]
