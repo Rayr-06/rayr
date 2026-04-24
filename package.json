@@ -1,7 +1,34 @@
 {
-  "name": "react-vite-tailwind",
+  "name": "rayr-quant",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "RAYR_Quant - Production-Grade Automated Trading System with TradingView + Zerodha Integration",
+  "author": "Rayr-06 <https://github.com/Rayr-06>",
+  "license": "MIT",
+  "homepage": "https://github.com/Rayr-06/RAYR_Quant",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rayr-06/RAYR_Quant.git"
+  },
+  "keywords": [
+    "rayr",
+    "rayr-quant",
+    "trading",
+    "automated-trading",
+    "tradingview",
+    "zerodha",
+    "kite-api",
+    "quant",
+    "fintech",
+    "react",
+    "typescript",
+    "stock-market",
+    "indian-market",
+    "intraday"
+  ],
+  "bugs": {
+    "url": "https://github.com/Rayr-06/RAYR_Quant/issues"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
